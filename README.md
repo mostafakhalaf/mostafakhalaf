@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Full stack dot net developer from Egypt</h3>
 
 - 🔭 I’m currently working on **AdvancedRecruitment**
+- Graduated from iti 
+- Bachelor of Information Technology, Faculty of Computer and Information, Assuit University.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
